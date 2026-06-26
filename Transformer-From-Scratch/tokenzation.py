@@ -1,7 +1,7 @@
 import torch
 import pickle
 
-with open("book.txt", "r", encoding="utf-8") as f:
+with open("book1.txt", "r", encoding="utf-8") as f:
     text = f.read()
 
 
