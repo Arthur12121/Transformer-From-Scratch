@@ -155,14 +155,5 @@ This implementation will be extended to:
 
 ---
 
-# License
 
-MIT License
-
----
-
-# Author
-
-Arthur
-
-Built with ❤️ using PyTorch.<img width="710" height="985" alt="transformers" src="https://github.com/user-attachments/assets/544f09f8-b781-48d1-8db2-114b7419a7a9" />
+.<img width="710" height="985" alt="transformers" src="https://github.com/user-attachments/assets/544f09f8-b781-48d1-8db2-114b7419a7a9" />
