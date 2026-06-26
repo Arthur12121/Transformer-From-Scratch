@@ -155,5 +155,10 @@ This implementation will be extended to:
 
 ---
 
+# NOTE
+
+Important note: This version is untrained. You can train it using a text source—such as a book—which you can change if desired. First
+you must launch the model and then the interface to generate the reference lists
+
 
 .<img width="710" height="985" alt="transformers" src="https://github.com/user-attachments/assets/544f09f8-b781-48d1-8db2-114b7419a7a9" />
